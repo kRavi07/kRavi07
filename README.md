@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hello, I'm Ravi Kant Kumar
 
-I am a full stack developer with a passion for crafting end-to-end solutions that seamlessly blend user experience with robust functionality. Proficient in front-end technologies like HTML, CSS, and JavaScript, React,NextJs as well as back-end languages such as Node.js, JAVA and Python, I specialize in creating efficient and scalable applications. With expertise in database management and API design, I am dedicated to delivering innovative, high-quality software that meets the evolving demands of the digital landscape.Whether it's building responsive user interfaces, architecting robust server-side solutions, or optimizing database performance, I am committed to delivering high-quality, cutting-edge software that meets the needs of both clients and end-users alike.s.
+I am a full stack developer with a passion for crafting end-to-end solutions that seamlessly blend user experience with robust functionality. Proficient in front-end technologies like HTML, CSS, and JavaScript, React,NextJs as well as back-end languages such as Node.js, JAVA and Python, I specialize in creating efficient and scalable applications. With expertise in database management and API design, I am dedicated to delivering innovative, high-quality software that meets the evolving demands of the digital landscape.Whether it's building responsive user interfaces, architecting robust server-side solutions, or optimizing database performance, I am committed to delivering high-quality, cutting-edge software that meets the needs of both clients and end-users alike.
 
 
 ## 🌐 Socials:
