@@ -33,6 +33,8 @@ Let's build something amazing together! 🚀
 
 ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kRavi07&&show_icons=true&theme=vue-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kravi07&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
