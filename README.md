@@ -31,7 +31,7 @@ Let's build something amazing together! 🚀
 # 📊 GitHub Stats:
 ![kRavi07's Stats](https://github-readme-stats.vercel.app/api?username=kRavi07&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![kRavi07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kRavi07&theme=dracula&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kravi07&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kRavi07&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kravi07&theme=dark&no-frame=false&no-bg=false&margin-w=4)
