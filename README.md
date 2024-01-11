@@ -38,10 +38,12 @@ Let's build something amazing together! 🚀
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kravi07&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-<a href="https://app.daily.dev/kravi07"><img src="https://api.daily.dev/devcards/63998fd4dbea47ff9f5962eaf9285f5c.png?r=b1w" width="400" alt="Ravi Kant's Dev Card"/></a>
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+## Daily Dev Stats
+<a href="https://app.daily.dev/kravi07"><img src="https://api.daily.dev/devcards/63998fd4dbea47ff9f5962eaf9285f5c.png?r=b1w" width="400" alt="Ravi Kant's Dev Card"/></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kravi07&icon=2&color=6)](https://visitcount.itsvg.in)
